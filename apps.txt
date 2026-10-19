@@ -37,3 +37,20 @@ org.gnome.Contacts
 org.gnome.clocks
 com.obsproject.Studio
 org.audacityteam.Audacity
+
+# Fifteen further preinstalled purpose-specific applications
+org.kde.gwenview
+org.kde.kgeotag
+org.kde.kamoso
+org.kde.kolourpaint
+com.github.flxzt.rnote
+org.kde.okular
+org.kde.dolphin
+org.kde.ark
+org.kde.filelight
+io.github.flattool.Warehouse
+org.kde.kcalc
+org.gnome.meld
+org.kde.marble
+org.kde.kstars
+org.kde.konsole
