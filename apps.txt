@@ -20,3 +20,20 @@ org.gnome.Calculator
 org.gnome.baobab
 org.gnome.Logs
 com.github.tchx84.Flatseal
+
+# Fifteen additional preinstalled purpose-specific applications
+com.rawtherapee.RawTherapee
+org.kde.digikam
+org.gnome.Shotwell
+com.orama_interactive.Pixelorama
+org.synfig.SynfigStudio
+io.github.OpenToonz
+org.librecad.librecad
+org.qelectrotech.QElectroTech
+org.mozilla.Thunderbird
+org.gnome.Papers
+org.gnome.SimpleScan
+org.gnome.Contacts
+org.gnome.clocks
+com.obsproject.Studio
+org.audacityteam.Audacity
