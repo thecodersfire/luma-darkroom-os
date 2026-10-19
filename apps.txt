@@ -3,3 +3,8 @@ org.gimp.GIMP
 org.darktable.Darktable
 org.mozilla.firefox
 com.opera.opera-gx
+
+# Three additional preinstalled purpose-specific applications
+org.inkscape.Inkscape
+org.kde.krita
+org.kde.kdenlive

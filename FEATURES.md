@@ -12,3 +12,13 @@ Install them from this repository:
 
     mkdir -p "$HOME/.local/bin"
     install -m 0755 features/luma-darkroom-os-workspace features/luma-darkroom-os-plan features/luma-darkroom-os-check "$HOME/.local/bin/"
+
+## Preinstalled purpose software
+
+The installer adds these three Flathub applications for photo editing:
+
+1. **Inkscape** — org.inkscape.Inkscape
+2. **Krita** — org.kde.krita
+3. **Kdenlive** — org.kde.kdenlive
+
+They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.
