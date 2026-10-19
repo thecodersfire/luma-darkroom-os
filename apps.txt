@@ -54,3 +54,20 @@ org.gnome.meld
 org.kde.marble
 org.kde.kstars
 org.kde.konsole
+
+# Fifteen further purpose-specific applications
+org.shotcut.Shotcut
+fr.handbrake.ghb
+org.openshot.OpenShot
+org.kde.glaxnimate
+org.kde.subtitlecomposer
+org.kde.kphotoalbum
+org.kde.kid3
+org.gnome.Loupe
+org.kde.kasts
+org.jellyfin.JellyfinDesktop
+org.kde.kwave
+org.kde.elisa
+com.github.wwmm.easyeffects
+org.musescore.MuseScore
+org.ardour.Ardour
